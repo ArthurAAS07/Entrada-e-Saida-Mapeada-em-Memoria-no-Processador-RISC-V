@@ -1,1 +1,1 @@
-# Entrada-e-Sa-da-Mapeada-em-Mem-ria-no-Processador-RISC-V
+# Entrada-e-Saida-Mapeada-em-Memoria-no-Processador-RISC-V
